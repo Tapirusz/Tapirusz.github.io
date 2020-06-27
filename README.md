@@ -1,2 +1,2 @@
-# Tapirusz.github.io
+# tapirusz.github.io
 Demo page.
